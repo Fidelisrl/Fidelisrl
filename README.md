@@ -1,44 +1,40 @@
 <h1 align="left">Hey 👋 What's up?</h1>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=25&left=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+Developer;Learning+JavaScript;Future+Software+Engineer" />
+</p>
 
 ###
 
-<p align="left">My name is Felipe Fidelis and I'm a Computer Science student and I live in Brazil.</p>
+<p align="left">I'm Felipe Fidelis, a Computer Science student from Brazil 🇧🇷</p>
 
 ###
+<h2 align = "left"> About me </h2>
 
-<h2 align="left">About me</h2>
+<ul>
+  <li>💻 Currently learning Java and JavaScript</li>
+  <li>🎯 Goal: Become a Software Engineer</li>
+</ul>
 
-###
+<h2 align="left">Technologies</h2>
 
-<p align="left">📚 I'm currently learning JAVA and J.S <br>🎯 Goals: Work to Software Engineer<br>🎲 Fun fact: I don't know </p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://www.svgrepo.com/show/184143/java.svg" height="40" alt="javascript logo"  />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
+  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-</div>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+</p>
+
+<h2 align="left">GitHub Stats</h2>
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fidelisrl&show_icons=true&theme=tokyonight" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisrl&layout=compact&theme=tokyonight"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/SEUUSERNAME/SEUUSERNAME/output/github-contribution-grid-snake.svg" />
 
 $$
 Fidelis
 $$
-<!--
-**Fidelisrl/Fidelisrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
