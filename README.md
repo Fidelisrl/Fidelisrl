@@ -33,7 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisrl&layout=compact&theme=tokyonight"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/SEUUSERNAME/SEUUSERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Fidelisrl/Fidelisrl/output/github-contribution-grid-snake.svg" />
 
 $$
 Fidelis
