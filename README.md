@@ -1,40 +1,50 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=25&left=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+Developer;Learning+JavaScript;Future+Software+Engineer" />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&duration=3000&pause=1000&color=5A189A&center=true&vCenter=true&width=900&lines=Hey+What's+up%3F" />
+
+<br><br>
+
+<p>
+  I'm <b>Felipe Fidelis</b>, a Computer Science student from Brazil 🇧🇷
 </p>
 
-###
+</div>
 
-<p align="left">I'm Felipe Fidelis, a Computer Science student from Brazil 🇧🇷</p>
+## 🚀 About Me
 
-###
-<h2 align = "left"> About me </h2>
+- 💻 Currently learning **Java** and **JavaScript**
+- 🎯 Goal: Become a **Software Engineer**
 
-<ul>
-  <li>💻 Currently learning Java and JavaScript</li>
-  <li>🎯 Goal: Become a Software Engineer</li>
-</ul>
+<br>
 
-<h2 align="left">Technologies</h2>
+## 🛠️ Technologies
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
-  
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-</p>
+<div align="left">
 
-<h2 align="left">GitHub Stats</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fidelisrl&show_icons=true&theme=tokyonight"/>
+<img width="12" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisrl&layout=compact&theme=tokyonight"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fidelisrl&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisrl&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Fidelisrl/Fidelisrl/output/github-contribution-grid-snake.svg" />
 
-$$
-Fidelis
-$$
+</div>
