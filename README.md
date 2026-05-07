@@ -3,7 +3,6 @@
 ###
 
 <p align="left">My name is Felipe Fidelis and I'm a Computer Science student and I live in Brazil.</p>
-<p align="left">.</p>
 
 ###
 
