@@ -28,7 +28,7 @@
 <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fidelisrl&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fidelisrl&show_icons=true&theme=tokyonight"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisrl&layout=compact&theme=tokyonight"/>
 </p>
