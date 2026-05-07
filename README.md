@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning JAVA and J.S <br>🎯 Goals: Work to Software Engineer<br>🎲 Fun fact: I don´t know </p>
+<p align="left">📚 I'm currently learning JAVA and J.S <br>🎯 Goals: Work to Software Engineer<br>🎲 Fun fact: I don't know </p>
 
 ###
 
