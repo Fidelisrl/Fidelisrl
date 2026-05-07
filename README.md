@@ -13,6 +13,7 @@
 
 - Currently learning Java and JavaScript
 - Focused on becoming a Software Engineer
+- Open to collaborating on beginner-friendly projects
 
 ## Technologies
 <div align="left">
@@ -30,4 +31,8 @@
 
 <img height="180em" src="https://streak-stats.demolab.com?user=Fidelisrl&theme=tokyonight&hide_border=true"/>
 
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fidelisrl&color=5A189A&style=flat"/>
 </div>
